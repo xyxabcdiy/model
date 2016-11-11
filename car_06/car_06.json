@@ -1,0 +1,13 @@
+{
+    "filename": "car_06.babylon",
+    "entirety": "body",
+    "components": {
+        "motor": [
+            "motor.1",
+            "motor.2"
+        ]
+        
+    },
+    "scene": "training"
+	"hideBody": ture
+}
